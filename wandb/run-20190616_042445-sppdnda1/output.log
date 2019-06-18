@@ -1,0 +1,5 @@
+(60000, 28, 28, 1)
+Traceback (most recent call last):
+  File "MNIST_doc.py", line 44, in <module>
+    model.add(Conv2D(32,(3,3),input_shape(28,28,1),activation='relu'))
+NameError: name 'input_shape' is not defined

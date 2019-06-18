@@ -1,0 +1,24 @@
+{
+    "root": "/home/jovyan/CNN1",
+    "git": {
+        "remote": "https://github.com/P-Kshitij/CNN1.git",
+        "commit": "56efdeadfe045f190576c28fa257803e787f0342"
+    },
+    "email": "kshitijparwani.mat18@itbhu.ac.in",
+    "startedAt": "2019-06-16T05:44:03.282809",
+    "host": "jupyter-p-2dkshitij",
+    "username": "jovyan",
+    "os": "Linux-4.14.119+-x86_64-with-debian-buster-sid",
+    "python": "3.7.3",
+    "gpu": "Tesla K80",
+    "gpu_count": 1,
+    "cpu_count": 2,
+    "program": "MNIST_doc.py",
+    "cuda": "10.1.168",
+    "args": [],
+    "state": "finished",
+    "heartbeatAt": "2019-06-16T05:46:13.110150",
+    "jobType": null,
+    "mode": "run",
+    "exitcode": 0
+}
